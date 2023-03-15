@@ -1,6 +1,6 @@
 ### Hi there! I'm Lucas Meregali
 
-- 🖥️ I am currently in the second year of technical high school in computer science
+- 🖥️ I am currently in the third year of technical high school in computer science
 - 🦇 I am learning react native 
 - ♠️ Pronouns: He/him
 
