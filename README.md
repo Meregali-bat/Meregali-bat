@@ -4,7 +4,7 @@
 - 🦇 I am learning react native 
 - ♠️ Pronouns: He/him
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=24&center=true&vCenter=true&width=1000&lines=Hi,+there!!+I'm+Lucas+de+Souza+Meregali;I'm+16+years+old;I+from+Brasil,+RS;I+study+computer+science+at+Cimol;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=24&center=true&vCenter=true&width=1000&lines=Hi,+there!!+I'm+Lucas+de+Souza+Meregali;I'm+17+years+old;I+from+Brasil,+RS;I+study+computer+science+at+Cimol;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Lcms02">
