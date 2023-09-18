@@ -30,4 +30,4 @@
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">         
 </div>
   
-  ![Snake animation](https://github.com/Lcms02/Lcms02/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Meregali-bat/Meregali-bat/blob/output/github-contribution-grid-snake.svg)
