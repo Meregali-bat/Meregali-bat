@@ -1,8 +1,7 @@
 ### Hi there! I'm Lucas Meregali
 
-- 🖥️ I am currently in the third year of technical high school in computer science
+- 🖥️ I am currently studying
 - 🦇 I am learning React.js
-- ♠️ Pronouns: He/him
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=24&center=true&vCenter=true&width=1000&lines=Hi,+there!!+I'm+Lucas+Meregali;I'm+17+years+old;I+from+Brasil,+RS;I+study+computer+science+at+Cimol;Be+Welcome!+:%29)](https://git.io/typing-svg)
