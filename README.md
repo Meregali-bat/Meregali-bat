@@ -1,10 +1,10 @@
 ### Hi there! I'm Lucas Meregali
 
-- 🖥️ I am currently studying
-- 🦇 I am learning React.js
+- 🖥️ I am currently working as Qa at Snapcontrol
+- 🦇 I am learning Java
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=24&center=true&vCenter=true&width=1000&lines=Hi,+there!!+I'm+Lucas+Meregali;I'm+18+years+old;I+from+Brasil,+RS;I+work+as+customer+experience+at+W2ABBrasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=24&center=true&vCenter=true&width=1000&lines=Hi,+there!!+I'm+Lucas+Meregali;I'm+19+years+old;I'm+from+Brasil,+RS;I+work+as+quality+assurance+at+Snapcontrol;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Meregali-bat">
