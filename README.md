@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🖥️I'm currently working as QA at Snapcontrol</p>
+<p align="left">🖥️I'm currently working as a developer at Snapcontrol</p>
 
 ###
 
